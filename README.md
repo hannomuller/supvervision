@@ -31,7 +31,7 @@ After completion of the MA thesis,
 This skill set qualifies for an academic career or for a career in the private sector as data analyst or investigator, among others.
 
 ## References
-1. [Schreuder, R., & Baayen, R. H. (1997). How complex simplex words can be. Journal of memory and language, 37(1), 118–139.](https://www.sciencedirect.com/science/article/pii/S0749596X97925109)
-2. [De Jong IV, N. H., Schreuder, R., & Harald Baayen, R. H. (2000). The morphological family size effect and morphology. Language and cognitive processes, 15(4-5), 329–365.](https://www.tandfonline.com/doi/abs/10.1080/01690960050119625)
-3. [Winther-Balling, L., & Baayen, R. H. (2012). Probability and surprisal in auditory comprehension of morphologically complex words. Cognition, 125(1), 80–106.](https://www.sciencedirect.com/science/article/pii/S0010027712001230)
-4. [Ernestus, M., & Cutler, A. (2015). Baldey: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469–1488.](https://journals.sagepub.com/doi/abs/10.1080/17470218.2014.984730)
+.. [Schreuder, R., & Baayen, R. H. (1997). How complex simplex words can be. Journal of memory and language, 37(1), 118–139.](https://www.sciencedirect.com/science/article/pii/S0749596X97925109)
+.. [De Jong IV, N. H., Schreuder, R., & Harald Baayen, R. H. (2000). The morphological family size effect and morphology. Language and cognitive processes, 15(4-5), 329–365.](https://www.tandfonline.com/doi/abs/10.1080/01690960050119625)
+.. [Winther-Balling, L., & Baayen, R. H. (2012). Probability and surprisal in auditory comprehension of morphologically complex words. Cognition, 125(1), 80–106.](https://www.sciencedirect.com/science/article/pii/S0010027712001230)
+.. [Ernestus, M., & Cutler, A. (2015). Baldey: A database of auditory lexical decisions. Quarterly Journal of Experimental Psychology, 68(8), 1469–1488.](https://journals.sagepub.com/doi/abs/10.1080/17470218.2014.984730)
