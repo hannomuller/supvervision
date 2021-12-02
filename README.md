@@ -30,6 +30,7 @@ After completion of the MA thesis,
 
 This skill set qualifies for an academic career or for a career in the private sector as data analyst or investigator, among others.
 
+
 ## References
 1. [Schreuder, R., & Baayen, R. H. (1997). How complex simplex words can be. Journal of memory and language, 37(1), 118–139.](https://www.sciencedirect.com/science/article/pii/S0749596X97925109)
 2. [De Jong IV, N. H., Schreuder, R., & Harald Baayen, R. H. (2000). The morphological family size effect and morphology. Language and cognitive processes, 15(4-5), 329–365.](https://www.tandfonline.com/doi/abs/10.1080/01690960050119625)
