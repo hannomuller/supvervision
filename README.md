@@ -1,6 +1,6 @@
 # Topic for MA thesis
 
-I offer the supervision of a well-defined computational study that is described below in detail. The study aims to answer a scientifically relevant question.
+I offer the supervision of a well-defined computational study that is described below in detail. The study aims to answer a scientifically relevant question and. An exceptionally good study can be used as the basis for a publication in collaboration with me.
 
 
 ## The family size effect
